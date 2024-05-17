@@ -2,6 +2,8 @@
 
 Welcome to the **Techiebutler** repository! This README provides instructions on how to clone, set up, and run the Techiebutler React Native Posts application on your local development environment.
 
+<img width="352" alt="Screenshot 2024-05-17 at 8 17 39 PM" src="https://github.com/Bharathkdev/techiebutler/assets/46343966/2fa0a9c5-348d-4850-983a-22b68ac2fcb3">
+
 ## Features
 
 - Added a Home Loader animation.
